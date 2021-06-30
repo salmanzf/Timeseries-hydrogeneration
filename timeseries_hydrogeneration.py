@@ -8,8 +8,8 @@ Original file is located at
 """
 
 import os
-os.environ['KAGGLE_USERNAME'] = 'salmanzf'
-os.environ['KAGGLE_KEY'] = 'b70e5ac15cf524bf414d5d0a2a9f5395'
+os.environ['KAGGLE_USERNAME'] = #'user'
+os.environ['KAGGLE_KEY'] = #'key'
 
 !kaggle datasets download -d navinmundhra/daily-power-generation-in-india-20172020
 
